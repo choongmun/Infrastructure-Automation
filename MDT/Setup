@@ -1,4 +1,4 @@
-# Prerequisite
+Prerequisite
 Domain Controller (DC)
 Domain Name Server (DNS)
 3 features of windows ADK (Deployment Tools, User State Migration Tool and Window PE) need to be installed to use MDT
