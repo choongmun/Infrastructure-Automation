@@ -1,1 +1,12 @@
+# Prerequisite
+Domain Controller (DC)
+Domain Name Server (DNS)
+3 features of windows ADK (Deployment Tools, User State Migration Tool and Window PE) need to be installed to use MDT
+MDT can be installed in any computer
+
+Installation Link
+
+ADK - https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install (2 downloads, Windows ADK and Windows PE add-on for the ADK)
+MDT - https://www.microsoft.com/en-us/download/details.aspx?id=54259
+
 
