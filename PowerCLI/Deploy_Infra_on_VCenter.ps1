@@ -1,4 +1,4 @@
-﻿Connect-VIServer 192.168.1.10 -User choongmun@sandpit.local -Password Password123!
+﻿Connect-VIServer 192.168.1.10 -User xxxxxxxx -Password ********
 $hostName = "192.168.1.13"
 $dsName = "Range-Datastore"
 $folderName = "Internz_Clients"
