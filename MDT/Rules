@@ -7,17 +7,17 @@ ComputerSerialNumber=#Right("%SerialNumber%",2)#
 
 [DefaultGateway]
 192.168.1.1=Branch
-192.168.233.2=Main
+172.168.103.254=Main
 
 [Branch]
 LocationName=AMK
 LType=AMK
-MachineObjectOU=OU=IT,OU=AMK,DC=CEH,DC=com
+MachineObjectOU=OU=IT,OU=AMK,DC=Internz,DC=com
 
 [Main]
 LocationName=JE
 LType=JE
-MachineObjectOU=OU=IT,OU=JE,DC=CEH,DC=com
+MachineObjectOU=OU=IT,OU=JE,DC=Internz,DC=com
 
 [ByVMType]
 Subsection=VM-%IsVM%
@@ -32,11 +32,11 @@ Subsection=Laptop-%IsLaptop%
 Subsection=Server-%IsServer%
 
 [VM-True]
-TaskSequenceID=W10P
+TaskSequenceID=W7P
 CType=VM
 
 [Desktop-True]
-TaskSequenceID=W10P
+TaskSequenceID=W7P
 CType=DT
 
 [Laptop-True]
@@ -46,15 +46,15 @@ CType=LT
 CType=SV
 
 [Default]
-SLShare = \\192.168.233.131\Logs
+SLShare = \\172.30.1.5\Logs
 OSInstall=Y
 TimeZoneName=Singapore Standard Time
 OSDComputerName=%LType%-%CType%-%ComputerSerialNumber%
 
-JoinDomain=ceh.com
+JoinDomain=Internz.com
 DomainAdmin=administrator
-DomainAdminDomain=ceh
-DomainAdminPassword=Password123!
+DomainAdminDomain=Internz
+DomainAdminPassword=P@ssw0rd
 DomainErrorRecovery=AUTO
 
 SkipAdminPassword=YES
