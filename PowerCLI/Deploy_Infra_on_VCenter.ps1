@@ -2,7 +2,6 @@
 $hostName = "192.168.1.13"
 $dsName = "Range-Datastore"
 $folderName = "Internz_Clients"
-$SourceSpec = Get-OSCustomizationSpec -Name "IT"
 
 $no_of_vm = 2
 $SourceTemplate = Get-Template -Name "Win7Prox64Temp"
