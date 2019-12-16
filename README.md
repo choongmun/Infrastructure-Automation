@@ -3,9 +3,9 @@ Cyber Scenario
 * Infrastructure Automation
 * Attack Automation
 
-Video
+Internship Video
 ---------------
-Video: https://www.youtube.com/watch?v=FNpro0vE3dU&t=10s
+Intern Video: https://www.youtube.com/watch?v=FNpro0vE3dU&t=10s
 
 Internship Report
 ---------------
