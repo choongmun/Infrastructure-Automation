@@ -21,7 +21,7 @@ Setup Manual: https://docs.google.com/document/d/1f4m5r2sfJL6N-p2A_M3mnoHFop4H4G
 MDT Setup Video: https://www.youtube.com/watch?v=oWRvQgCi4aI&t=1440s
 
 ### Documentation ###
-Documentation: https://docs.google.com/document/d/1IQ8kYxRNoqmPpZS2TgIvdxQVa7L5ZGfNdIwjDKrJLmU/edit?usp=sharing
+https://docs.google.com/document/d/1IQ8kYxRNoqmPpZS2TgIvdxQVa7L5ZGfNdIwjDKrJLmU/edit?usp=sharing
 
 Attack Automation
 ---------------
